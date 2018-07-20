@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1464471870 source:c:\users\usama yousuf\desktop\facebookfriendsuggestion\graph.cpp
+	"Graph.h"
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1464470748 c:\users\usama yousuf\desktop\facebookfriendsuggestion\graph.h
+	"list.h"
+	<map>
+	<string>
+
+1464248107 c:\users\usama yousuf\desktop\facebookfriendsuggestion\list.h
+	<string>
+
+1464470967 source:c:\users\usama yousuf\desktop\facebookfriendsuggestion\main.cpp
+	"Graph.h"
+	"Interface.h"
+	<iostream>
+
+1464472407 source:c:\users\usama yousuf\desktop\facebookfriendsuggestion\interface.cpp
+	"Interface.h"
+	"Graph.h"
+	<stdlib.h>
+	<iostream>
+
+1464464288 c:\users\usama yousuf\desktop\facebookfriendsuggestion\interface.h
+	"Graph.h"
+
+1464471870 source:f:\4th semester\ds lab\facebookfriendsuggestion\graph.cpp
+	"Graph.h"
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1464470748 f:\4th semester\ds lab\facebookfriendsuggestion\graph.h
+	"list.h"
+	<map>
+	<string>
+
+1464248107 f:\4th semester\ds lab\facebookfriendsuggestion\list.h
+	<string>
+
+1464472407 source:f:\4th semester\ds lab\facebookfriendsuggestion\interface.cpp
+	"Interface.h"
+	"Graph.h"
+	<stdlib.h>
+	<iostream>
+
+1464464288 f:\4th semester\ds lab\facebookfriendsuggestion\interface.h
+	"Graph.h"
+
+1464470967 source:f:\4th semester\ds lab\facebookfriendsuggestion\main.cpp
+	"Graph.h"
+	"Interface.h"
+	<iostream>
+
+1464471870 source:d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\graph.cpp
+	"Graph.h"
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1464470748 d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\graph.h
+	"list.h"
+	<map>
+	<string>
+
+1464248107 d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\list.h
+	<string>
+
+1464472407 source:d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\interface.cpp
+	"Interface.h"
+	"Graph.h"
+	<stdlib.h>
+	<iostream>
+
+1464464288 d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\interface.h
+	"Graph.h"
+
+1464470967 source:d:\usama backup\university\4th semester\ds lab\facebookfriendsuggestion\main.cpp
+	"Graph.h"
+	"Interface.h"
+	<iostream>
+

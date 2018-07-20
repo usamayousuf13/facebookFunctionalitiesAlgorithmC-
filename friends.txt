@@ -1,0 +1,19 @@
+ali		aun	uzair	sadaf	
+usama		aun	lauren	urooba	sadaf	allison	
+uzair		ali	sadaf	maheen	john	aun	
+sadaf		uzair	usama	lauren	maheen	urooba	ali	hamza	
+john		uzair	oliver	lauren	obama	moaz	allison	
+allison		john	faisal	lauren	faizan	usama	
+obama		john	moaz	fahim	sameer	umer	maheen	
+aun		ali	moaz	uzair	usama	umer	
+moaz		john	obama	aun	urooba	faisal	fahim	faizan	
+fahim		obama	moaz	hamza	
+hamza		sadaf	fahim	sameer	
+sameer		obama	hamza	oliver	
+umer		oliver	obama	aun	
+oliver		john	sameer	umer	
+maheen		faizan	sadaf	obama	uzair	
+faizan		allison	moaz	maheen	
+urooba		usama	sadaf	moaz	faisal
+faisal		allison	moaz	urooba
+lauren		usama	sadaf	john	allison	
